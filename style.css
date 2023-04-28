@@ -1,0 +1,22 @@
+.elem{
+    border: 1px solid black;
+    flex: 0 0 30%;
+    aspect-ratio: 1 / 1;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
+article{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    
+    
+   
+}
